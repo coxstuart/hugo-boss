@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Boss</title>
-    <link>http://example.org/</link>
+    <link>https://coxstuart.github.io/hugo-boss/</link>
     <description>Recent content on Hugo Boss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2020 08:43:32 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 12:07:07 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coxstuart.github.io/hugo-boss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Post 1</title>
-      <link>http://example.org/posts/post1/</link>
-      <pubDate>Sat, 30 May 2020 08:43:32 -0500</pubDate>
+      <title>Read Me</title>
+      <link>https://coxstuart.github.io/hugo-boss/posts/readme/</link>
+      <pubDate>Sat, 30 May 2020 12:07:07 -0500</pubDate>
       
-      <guid>http://example.org/posts/post1/</guid>
+      <guid>https://coxstuart.github.io/hugo-boss/posts/readme/</guid>
+      <description>hugo-boss Sample static site using Hugo status site generator with github pages.
+Love it so far. Very fast, seems flexible, easy to build site or blog. Themes are kind of a pain, mainly finding a good one is difficult without rolliing your own. Still looking for one I like.
+Local Dev Setup To setup on a new workstation:
+  Install hugo and verify install
+&amp;gt; brew install hugo &amp;gt; hugo version   To build and compile the static site, run hugo (build is extremely fast)</description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>https://coxstuart.github.io/hugo-boss/posts/post1/</link>
+      <pubDate>Wed, 27 May 2020 08:43:32 -0500</pubDate>
+      
+      <guid>https://coxstuart.github.io/hugo-boss/posts/post1/</guid>
       <description>Hugo is the Boss! Just testing this out
 Is it better than Jekyll?
-Supposed to be fast, we&amp;rsquo;ll see.</description>
+Supposed to be fast, we&amp;rsquo;ll see.
+Yes, it&amp;rsquo;s freakin fast, easy to author, build and see changes locally almost instantly.</description>
     </item>
     
   </channel>
