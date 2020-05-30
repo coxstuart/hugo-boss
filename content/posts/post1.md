@@ -1,7 +1,7 @@
 ---
 title: "Post 1"
 date: 2020-05-30T08:43:32-05:00
-draft: true
+draft: false
 ---
 
 # Hugo is the Boss!
