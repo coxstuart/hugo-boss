@@ -74,6 +74,9 @@ To add a new post, you can use the hugo cli:
 3. If the server is still running, the watch process will display
    
 # Publish the site to github pages
+The static site is hosted on github pages here:\
+https://coxstuart.github.io/hugo-boss/
+
 When you are finished editing and ready to publish your changes to github pages, just commit and push!
 
 ```
@@ -83,3 +86,4 @@ When you are finished editing and ready to publish your changes to github pages,
 ```
 
 This hugo site is setup to build to static site the /docs directory (see config.toml file).  The docs folder is used to host the static site on github pages.
+
